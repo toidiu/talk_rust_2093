@@ -1,0 +1,8 @@
+[workspace]
+members = [
+  "bin/present",
+  "lib/explicit",
+  "lib/infer",
+]
+
+

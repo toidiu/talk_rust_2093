@@ -1,0 +1,8 @@
+[package]
+name = "present"
+version = "0.1.0"
+authors = ["toidiu <apoorv@toidiu.com>"]
+
+[dependencies]
+explicit = {path = "../../lib/explicit"}
+infer = {path = "../../lib/infer"}
